@@ -1,7 +1,7 @@
 {
   "name": "website",
   "version": "1.0.3",
-  "private": false,
+  "private": true,
   "funding": "https://jaywcjlove.github.io/#/sponsor",
   "homepage": "https://uiwjs.github.io/react-amap",
   "scripts": {
@@ -82,5 +82,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "gitHead": "b3387c99d3842ce66610e5024ef83ab6a3c37c8f"
 }
