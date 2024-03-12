@@ -1,0 +1,50 @@
+{
+  "version": "6.0",
+  "nxVersion": "18.0.8",
+  "deps": {
+    "@amap/amap-jsapi-loader": "^1.0.1",
+    "@lbh7/react-amap-require-script": "^1.0.2",
+    "@lbh7/react-amap-types": "^1.0.2",
+    "@types/react": "^18.2.16",
+    "@types/react-dom": "^18.2.7"
+  },
+  "pathMappings": {},
+  "nxJsonPlugins": [],
+  "fileMap": {
+    "projectFileMap": {},
+    "nonProjectFiles": [
+      {
+        "file": "README.md",
+        "hash": "12674738163671119393"
+      },
+      {
+        "file": "cjs/index.d.ts",
+        "hash": "1759947934193110129"
+      },
+      {
+        "file": "cjs/index.js",
+        "hash": "10080809824207619522"
+      },
+      {
+        "file": "esm/index.d.ts",
+        "hash": "1759947934193110129"
+      },
+      {
+        "file": "esm/index.js",
+        "hash": "11028162617661243883"
+      },
+      {
+        "file": "package.json",
+        "hash": "5687713960828335653"
+      },
+      {
+        "file": "src/index.tsx",
+        "hash": "14109291674537665114"
+      },
+      {
+        "file": "tsconfig.json",
+        "hash": "7232701210151218793"
+      }
+    ]
+  }
+}
