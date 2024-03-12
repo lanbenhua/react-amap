@@ -1,0 +1,86 @@
+{
+  "name": "website",
+  "version": "6.0.2",
+  "private": true,
+  "funding": "https://jaywcjlove.github.io/#/sponsor",
+  "homepage": "https://uiwjs.github.io/react-amap",
+  "scripts": {
+    "build": "kkt build",
+    "start": "kkt start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/uiwjs/react-amap.git"
+  },
+  "author": "Kenny Wong <wowohoo@qq.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": ">=16.14.0",
+    "react-dom": ">=16.14.0"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.18.9",
+    "@lbh7/react-amap": "6.0.2",
+    "@lbh7/react-amap-api-loader": "6.0.2",
+    "@lbh7/react-amap-auto-complete": "6.0.2",
+    "@lbh7/react-amap-bezier-curve": "6.0.2",
+    "@lbh7/react-amap-circle": "6.0.2",
+    "@lbh7/react-amap-circle-marker": "6.0.2",
+    "@lbh7/react-amap-context-menu": "6.0.2",
+    "@lbh7/react-amap-control-bar-control": "6.0.2",
+    "@lbh7/react-amap-ellipse": "6.0.2",
+    "@lbh7/react-amap-geolocation": "6.0.2",
+    "@lbh7/react-amap-hawk-eye-control": "6.0.2",
+    "@lbh7/react-amap-info-window": "6.0.2",
+    "@lbh7/react-amap-map": "6.0.2",
+    "@lbh7/react-amap-map-type-control": "6.0.2",
+    "@lbh7/react-amap-marker": "6.0.2",
+    "@lbh7/react-amap-mass-marks": "6.0.2",
+    "@lbh7/react-amap-polygon": "6.0.2",
+    "@lbh7/react-amap-polygon-editor": "6.0.2",
+    "@lbh7/react-amap-polyline": "6.0.2",
+    "@lbh7/react-amap-rectangle": "6.0.2",
+    "@lbh7/react-amap-require-script": "6.0.2",
+    "@lbh7/react-amap-scale-control": "6.0.2",
+    "@lbh7/react-amap-text": "6.0.2",
+    "@lbh7/react-amap-tile-layer": "6.0.2",
+    "@lbh7/react-amap-tool-bar-control": "6.0.2",
+    "@lbh7/react-amap-types": "6.0.2",
+    "@lbh7/react-amap-utils": "6.0.2",
+    "@lbh7/react-amap-weather": "6.0.2",
+    "@lbh7/react-github-corners": "~1.5.3",
+    "@lbh7/react-loader": "^4.22.2",
+    "@lbh7/react-markdown-preview-example": "^2.0.0",
+    "@wcj/dark-mode": "^1.0.14",
+    "react": "~18.2.0",
+    "react-dom": "~18.2.0",
+    "react-router-dom": "^6.14.2"
+  },
+  "devDependencies": {
+    "@kkt/less-modules": "^7.5.2",
+    "@kkt/raw-modules": "^7.5.2",
+    "@kkt/scope-plugin-options": "^7.5.2",
+    "@types/react": "^18.2.16",
+    "@types/react-dom": "^18.2.7",
+    "kkt": "^7.5.2",
+    "markdown-react-code-preview-loader": "^2.1.7"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

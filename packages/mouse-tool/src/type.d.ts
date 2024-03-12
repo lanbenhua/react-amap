@@ -1,0 +1,1 @@
+/// <reference types="@lbh7/react-amap-types" />

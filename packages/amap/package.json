@@ -1,0 +1,68 @@
+{
+  "name": "@lbh7/react-amap",
+  "version": "6.0.2",
+  "description": "高德地图 React 组件",
+  "funding": "https://jaywcjlove.github.io/#/sponsor",
+  "homepage": "https://uiwjs.github.io/react-amap",
+  "main": "cjs/index.js",
+  "module": "esm/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/uiwjs/react-amap.git"
+  },
+  "author": "Kenny Wong <wowohoo@qq.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": ">=16.14.0",
+    "react-dom": ">=16.14.0"
+  },
+  "files": [
+    "dist",
+    "src",
+    "esm",
+    "cjs"
+  ],
+  "keywords": [
+    "react-amap",
+    "amap",
+    "map",
+    "react",
+    "bdmap",
+    "高德",
+    "地图",
+    "高德地图"
+  ],
+  "dependencies": {
+    "@lbh7/react-amap-api-loader": "6.0.2",
+    "@lbh7/react-amap-auto-complete": "6.0.2",
+    "@lbh7/react-amap-bezier-curve": "6.0.2",
+    "@lbh7/react-amap-circle": "6.0.2",
+    "@lbh7/react-amap-circle-marker": "6.0.2",
+    "@lbh7/react-amap-context-menu": "6.0.2",
+    "@lbh7/react-amap-control-bar-control": "6.0.2",
+    "@lbh7/react-amap-ellipse": "6.0.2",
+    "@lbh7/react-amap-geolocation": "6.0.2",
+    "@lbh7/react-amap-hawk-eye-control": "6.0.2",
+    "@lbh7/react-amap-info-window": "6.0.2",
+    "@lbh7/react-amap-label-marker": "6.0.2",
+    "@lbh7/react-amap-map": "6.0.2",
+    "@lbh7/react-amap-map-type-control": "6.0.2",
+    "@lbh7/react-amap-marker": "6.0.2",
+    "@lbh7/react-amap-mass-marks": "6.0.2",
+    "@lbh7/react-amap-mouse-tool": "6.0.2",
+    "@lbh7/react-amap-poly-editor": "6.0.2",
+    "@lbh7/react-amap-polygon": "6.0.2",
+    "@lbh7/react-amap-polygon-editor": "6.0.2",
+    "@lbh7/react-amap-polyline": "6.0.2",
+    "@lbh7/react-amap-polyline-editor": "6.0.2",
+    "@lbh7/react-amap-rectangle": "6.0.2",
+    "@lbh7/react-amap-require-script": "6.0.2",
+    "@lbh7/react-amap-scale-control": "6.0.2",
+    "@lbh7/react-amap-text": "6.0.2",
+    "@lbh7/react-amap-tile-layer": "6.0.2",
+    "@lbh7/react-amap-tool-bar-control": "6.0.2",
+    "@lbh7/react-amap-types": "6.0.2",
+    "@lbh7/react-amap-utils": "6.0.2",
+    "@lbh7/react-amap-weather": "6.0.2"
+  }
+}
