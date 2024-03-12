@@ -64,5 +64,6 @@
     "@lbh7/react-amap-types": "1.0.0",
     "@lbh7/react-amap-utils": "1.0.0",
     "@lbh7/react-amap-weather": "1.0.0"
-  }
+  },
+  "gitHead": "c6b7ac290bb8535a7e0d09e5ce52dbb33cfb1cf3"
 }

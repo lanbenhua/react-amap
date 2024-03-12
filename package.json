@@ -3,6 +3,8 @@
   "private": true,
   "funding": "https://jaywcjlove.github.io/#/sponsor",
   "homepage": "https://uiwjs.github.io/react-amap",
+  "name": "react-amap",
+  "version": "1.0.0",
   "scripts": {
     "prepare": "husky install",
     "build": "lerna exec \"tsbb build \\\"src/*.{tsx,ts}\\\" --use-babel --bail\" --scope @lbh7/* --ignore @lbh7/react-amap-types",
