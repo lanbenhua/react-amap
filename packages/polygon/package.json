@@ -1,6 +1,6 @@
 {
   "name": "@lbh7/react-amap-polygon",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "description": "构造多边形对象，通过 PolygonOptions 指定多边形样式。",
   "funding": "https://jaywcjlove.github.io/#/sponsor",
   "homepage": "https://uiwjs.github.io/react-amap/#/polygon",
@@ -35,8 +35,8 @@
     "react-dom": ">=16.14.0"
   },
   "dependencies": {
-    "@lbh7/react-amap-map": "^1.0.2",
-    "@lbh7/react-amap-utils": "^1.0.2"
+    "@lbh7/react-amap-map": "^1.0.5",
+    "@lbh7/react-amap-utils": "^1.0.5"
   },
   "devDependencies": {
     "@types/react": "^18.2.16",

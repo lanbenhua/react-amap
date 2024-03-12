@@ -1,6 +1,6 @@
 {
   "name": "@lbh7/react-amap-bezier-curve",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "description": "贝塞尔曲线",
   "funding": "https://jaywcjlove.github.io/#/sponsor",
   "homepage": "https://uiwjs.github.io/react-amap/#/beizer-curve",
@@ -35,9 +35,9 @@
     "react-dom": ">=16.14.0"
   },
   "dependencies": {
-    "@lbh7/react-amap-map": "^1.0.2",
-    "@lbh7/react-amap-types": "^1.0.2",
-    "@lbh7/react-amap-utils": "^1.0.2"
+    "@lbh7/react-amap-map": "^1.0.5",
+    "@lbh7/react-amap-types": "^1.0.5",
+    "@lbh7/react-amap-utils": "^1.0.5"
   },
   "devDependencies": {
     "@types/react": "^18.2.16",
