@@ -1,6 +1,6 @@
 {
   "name": "@lbh7/react-amap-poly-editor",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "高德地图 Polygon 编辑器。",
   "funding": "https://jaywcjlove.github.io/#/sponsor",
   "homepage": "https://uiwjs.github.io/react-amap/#/poly-editor",
@@ -38,11 +38,11 @@
     "react-dom": ">=16.14.0"
   },
   "dependencies": {
-    "@lbh7/react-amap-map": "^1.0.6",
-    "@lbh7/react-amap-polygon": "^1.0.6",
-    "@lbh7/react-amap-polyline": "^1.0.6",
-    "@lbh7/react-amap-types": "^1.0.6",
-    "@lbh7/react-amap-utils": "^1.0.6"
+    "@lbh7/react-amap-map": "^1.0.7",
+    "@lbh7/react-amap-polygon": "^1.0.7",
+    "@lbh7/react-amap-polyline": "^1.0.7",
+    "@lbh7/react-amap-types": "^1.0.7",
+    "@lbh7/react-amap-utils": "^1.0.7"
   },
   "devDependencies": {
     "@types/react": "^18.2.16",
